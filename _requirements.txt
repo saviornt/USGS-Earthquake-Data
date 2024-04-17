@@ -1,0 +1,4 @@
+requests
+subprocess
+pandas
+pymongo
